@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>TaiYang Blog</title>
+		<link>https://TaiYang-cs.github.io/blog/</link>
+		<description>Recent content on TaiYang Blog</description>
+		<generator>Hugo</generator>
+		<language>zh-CN</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jul 2026 21:38:47 +0800</lastBuildDate>
+		
+			<atom:link href="https://TaiYang-cs.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Post</title>
+				<link>https://TaiYang-cs.github.io/blog/posts/my-first-post/</link>
+				<pubDate>Wed, 01 Jul 2026 21:38:47 +0800</pubDate>
+				<guid>https://TaiYang-cs.github.io/blog/posts/my-first-post/</guid>
+				<description>&lt;h2 id=&#34;完成第一篇博客&#34;&gt;完成第一篇博客&lt;/h2&gt;&#xA;&lt;p&gt;完成。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
