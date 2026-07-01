@@ -1,4 +1,4 @@
 baseURL = 'https://TaiYang-cs.github.io/blog/'
-languageCode = 'zh-CN'
+locale = 'zh-CN'
 title = 'TaiYang Blog'
 theme = 'ananke'
